@@ -47,7 +47,7 @@ This project analyzes the most popular Netflix movies released in the 1990s usin
 
 ## 💡 Summary of Insights
 
-- Most releases occurred mid-decade (1995–1997)
+- Most releases occurred mid-decade (1997–1999)
 - Top genres: Drama, Action, Comedy
 - Most movie durations fell between 80–110 mins
 
