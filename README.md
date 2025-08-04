@@ -57,5 +57,5 @@ This project analyzes the most popular Netflix movies released in the 1990s usin
 
 - 📄 [Full Notebook (ipynb)](https://colab.research.google.com/drive/1YUoFNXUCV8BDNaTzIKe-jlqcMsJ4ezBb?usp=sharing)
 - 🧾 [Notion Portfolio Version](https://www.notion.so/Netflix-Movie-Analysis-A-Focus-on-the-1990s-244778f30ecf809d864de8012ed3abc9?source=copy_link)
-- 🗃️ Dataset: Netflix Titles (https://drive.google.com/file/d/16mTxpjEPvKODdZTdMAc9g1fh1pcHvNXI/view?usp=sharing)
+- 🗃️ [Dataset: Netflix Titles] (https://drive.google.com/file/d/16mTxpjEPvKODdZTdMAc9g1fh1pcHvNXI/view?usp=sharing)
 
